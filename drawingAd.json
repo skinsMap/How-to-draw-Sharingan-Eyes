@@ -1,117 +1,371 @@
 {
   "AdsController": {
       
-    "AdNetwork"              : "admob",
+    "AdNetwork"              : "facebook",
     "IntervalClick"          : 1,
 
-    "AdMob_Banner"           : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_RewardAd"         : "ca-app-pub-3940256099942544/5224354917",
-    "AdMob_OpenAd"           : "ca-app-pub-3940256099942544/3419835294",
+    "AdMob_Banner"           : "ca-app-pub-3071522790697118/5640802312",
+    "AdMob_InterstitialAd"   : "ca-app-pub-3071522790697118/3014638973",
+    "AdMob_RewardAd"         : "ca-app-pub-3071522790697118/3931031176",
+    "AdMob_OpenAd"           : "ca-app-pub-3071522790697118/5449230620",
     "OpenAd_status"          : true ,
 
-    "Facebook_Banner"        : "871738060667001_871738510666956",
-    "Facebook_InterstitialAd": "871738060667001_871738604000280",
-    "Facebook_RewardAd"      : "ca-app-pub-3940256099942544/1033173712",
+    "Facebook_Banner"        : "169603845857024_169607389190003",
+    "Facebook_InterstitialAd": "169603845857024_169607422523333",
+    "Facebook_RewardAd"      : "169603845857024_169607465856662",
 
-    "Applovin_Banner"        : "4f657f6640db2eeb",
-    "Applovin_InterstitialAd": "362e843f5198f772",
-    "Applovin_RewardAd"      : "362e843f5198f772",
+    "Applovin_Banner"        : "",
+    "Applovin_InterstitialAd": "",
+    "Applovin_RewardAd"      : "",
 
-    "Unity_GameID"           : "5037733",
-    "Unity_Banner"           : "Banner_Android",
-    "Unity_InterstitialAd"   : "Interstitial_Android",
-    "Unity_RewardAd"         : "video",
+    "Unity_GameID"           : "",
+    "Unity_Banner"           : "",
+    "Unity_InterstitialAd"   : "",
+    "Unity_RewardAd"         : "",
 
-    "IronSourceKey"          : "178437e45"
+    "IronSourceKey"          : ""
   },
   
   "Category": [
     {
-      "category_title": "Anime",
-      "category_preview": "https://zonekapp.com/AndroidStudio/Drawing/anime.png",
+      "category_title": "Sharingan Eyes",
+      "category_preview": "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/Untitled-2.png",
       "category_list": [
         {
-          "name": "One Piece",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/one_piece_cover.png"
-        },
-        {
-          "name": "Naruto",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/naruto_cover.png"
-        }
-      ]
-    },
-    {
-      "category_title": "Poses",
-      "category_preview": "https://zonekapp.com/AndroidStudio/Drawing/poses.png",
-      "category_list": [
-        {
-          "name": "One Piece",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/one_piece_cover.png"
-        },
-        {
-          "name": "Naruto",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/naruto_cover.png"
+          "name": "Sharingan Eyes",
+          "cover": "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/Untitled-3.png"
         }
       ]
     }
   ],
-  "One Piece": [
+  "Cup Character": [
     {
-      "title": "San Jy",
-      "preview": "https://e7.pngegg.com/pngimages/997/382/png-clipart-vinsmoke-sanji-monkey-d-luffy-roronoa-zoro-one-piece-pirate-warriors-nami-one-piece-manga-fictional-character.png",
+      "title": "Sharingan Eyes 1",
+      "preview": "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257.png",
       "locked": false,
       "steps": [
-        "luffy_1",
-        "luffy_2"
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_00.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_01.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_02.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_03.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_04.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_05.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_06.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_07.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_08.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_09.png",
+        "https://raw.githubusercontent.com/skinsMap/How-to-draw-Sharingan-Eyes/main/New%20Folder%20With%20Items/f8257_10.png"
       ]
     },
     {
-      "title": "Monkey D.Luffy",
-      "preview": "https://zonekapp.com/AndroidStudio/Drawing/luffy.png",
+      "title": "Sharingan Eyes 2",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_00.png",
       "locked": true,
       "steps": [
-        "luffy_1",
-        "luffy_2"
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_06.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_07.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_08.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_09.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_10.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_11.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_12.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_13.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_14.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_15.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_16.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_17.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_18.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_19.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_20.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_21.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_22.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_23.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_24.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_25.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_26.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_27.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_28.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%202/e87b_29.png"
       ]
     },
     {
-      "title": "Nami",
-      "preview": "https://zonekapp.com/AndroidStudio/Drawing/nami.png",
+      "title": "Sharingan Eyes 3",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_00.png",
       "locked": false,
       "steps": [
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/1.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/2.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/3.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/4.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/5.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/6.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/7.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/8.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/9.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/11.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/12.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/13.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/14.png"
-      ]
-    }
-  ],
-  "Naruto": [
-    {
-      "title": "Naruto",
-      "preview": "",
-      "steps": [
-        "nar_1",
-        "nar_2"
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_06.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_07.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_08.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_09.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_10.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_11.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_12.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_13.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_14.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_15.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_16.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_17.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_18.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_19.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_20.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_21.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_22.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_23.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_24.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_25.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_26.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_27.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_28.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%203/daf98f_29.png"
       ]
     },
     {
-      "title": "Kakashi Hatake",
-      "preview": "",
+      "title": "Sharingan Eyes 4",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%204/d90_00.png",
+      "locked": true,
       "steps": [
-        "kak_1",
-        "kak_2"
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%204/d90_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%204/d90_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%204/d90_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%204/d90_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%204/d90_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%204/d90_06.png"
       ]
-    }
+    },
+    {
+      "title": "Sharingan Eyes 5",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_00.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_06.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_07.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_08.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_09.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_10.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_11.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_12.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_13.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_14.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_15.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_16.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_17.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_18.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_19.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_20.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_21.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%205/d7b_22.png"
+      ]
+    },
+    {
+      "title": "Sharingan Eyes 6",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%206/c6_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%206/c6_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%206/c6_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%206/c6_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%206/c6_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%206/c6_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%206/c6_06.png"
+      ]
+    },
+    {
+      "title": "Sharingan Eyes 7",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_06.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_07.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_08.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_09.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_10.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_11.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_12.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_13.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_14.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_15.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_16.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_17.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_18.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_19.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_20.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_21.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_22.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_23.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_24.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_25.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_26.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_27.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_28.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_29.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_30.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_31.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_32.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_33.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_34.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_35.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_36.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_37.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_38.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_39.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_40.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_41.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_42.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_43.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%207/b2548_44.png"
+      ]
+    },
+    {
+      "title": "Sharingan Eyes 8",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_00.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_06.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_07.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_08.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_09.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_10.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_11.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_12.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_13.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_14.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_15.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_16.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_17.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_18.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_19.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_20.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_21.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_22.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_23.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_24.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_25.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_26.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_27.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_28.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_29.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_30.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_31.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_32.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_33.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%208/b3b21_34.png"
+      ]
+    },
+    {
+      "title": "Sharingan Eyes 9",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%209/a8_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%209/a8_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%209/a8_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%209/a8_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%209/a8_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%209/a8_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%209/a8_06.png"
+      ]
+    },
+    {
+      "title": "Sharingan Eyes 10",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_00.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_06.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_07.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_08.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_09.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_10.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_11.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_12.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_13.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_14.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_15.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_16.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_17.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_18.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_19.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_20.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_21.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_22.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_23.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_24.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_25.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_26.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_27.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_28.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_29.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_30.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_31.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_32.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_33.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_34.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_35.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_36.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_37.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_38.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_39.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_40.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_41.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_42.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_43.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2010/a4_44.png"
+      ]
+    },
+    {
+      "title": "Sharingan Eyes 11",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2011/9096ef_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2011/9096ef_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2011/9096ef_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2011/9096ef_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2011/9096ef_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2011/9096ef_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2011/9096ef_06.png"
+      ]
+    },
+    {
+      "title": "Sharingan Eyes 12",
+      "preview": "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2012/6573f_00.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2012/6573f_01.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2012/6573f_02.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2012/6573f_03.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2012/6573f_04.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2012/6573f_05.png",
+        "https://raw.githubusercontent.com/skinsMap/Draw-Cup-Character/main/New%20Folder%20With%20Items%2012/6573f_06.png"
+        
+      ]
+    }   
   ]
 }
